@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lib:Netflix xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lib="http://www.eclipse.org/mdt/ocl/oclinecore/library" xsi:schemaLocation="http://www.eclipse.org/mdt/ocl/oclinecore/library Netflix.ecore"/>
