@@ -1,0 +1,200 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ë•øÿÿÿÿ8ÇÃÚ™/
+^
+java:S2259–"GA "NullPointerException" could be thrown; "gameBoard" is nullable here.(÷•„Ò
+S
+java:S2589²"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589×	"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589×	"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589„	"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589š"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589„	"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589µ	"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589µ	"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589š"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+S
+java:S2589²"7Remove this expression which always evaluates to "true"(«ˆîıÿÿÿÿ
+H
+java:S1948q"+Make "gameBoard" transient or serializable.(ñ›Ü¨8£Ä×™/
+C
+java:S1948}"(Make "buffer" transient or serializable.(’ê áıÿÿÿÿ
+I
+java:S1948"2Make "backgroundBuffer" transient or serializable.(ì­‡î
+F
+java:S1948…"0Make "bufferGraphics" transient or serializable.(ÌÒ×A
+V
+java:S1948‰":Make "backgroundBufferGraphics" transient or serializable.(é²€Îøÿÿÿÿ
+J
+java:S1948±",Make "defeatTile" transient or serializable.(­“áÁ8ÊÄ×™/
+8
+java:S1170º"!Make this final field static too.(¢Çí©
+M
+java:S2387"6"mouseListener" is the name of a field in "Component".(­ıœĞ
+n
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(îğöB
+o
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷Ôœq
+R
+java:S6212à"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8†Å×™/
+R
+java:S6212ø"/Declare this local variable with "var" instead.(øËº†şÿÿÿÿ8Å×™/
+R
+java:S6212ú"/Declare this local variable with "var" instead.(¯¯€šúÿÿÿÿ8‘Å×™/
+R
+java:S6212û"/Declare this local variable with "var" instead.(Ì†€úÿÿÿÿ8”Å×™/
+R
+java:S6212ü"/Declare this local variable with "var" instead.(–äÉÑüÿÿÿÿ8•Å×™/
+R
+java:S6212„"/Declare this local variable with "var" instead.(øËº†şÿÿÿÿ8›Å×™/
+M
+java:S6212‡"/Declare this local variable with "var" instead.(çñ¼€8Å×™/
+R
+java:S6212‰"/Declare this local variable with "var" instead.(¦ ÿÿÿÿÿ8£Å×™/
+K
+java:S6212‹"/Declare this local variable with "var" instead.(ê½ıÕøÿÿÿÿ
+n
+java:S3776à"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ƒÆäıÿÿÿÿ
+F
+java:S6212ç"/Declare this local variable with "var" instead.(†˜”Œ
+K
+java:S6212è"/Declare this local variable with "var" instead.(É»§üÿÿÿÿ
+E
+java:S6212é"/Declare this local variable with "var" instead.(Ç¦À[
+F
+java:S6212ê"/Declare this local variable with "var" instead.(˜ë£ª
+K
+java:S6212ş"/Declare this local variable with "var" instead.(óìØËøÿÿÿÿ
+E
+java:S6212¶"/Declare this local variable with "var" instead.(Ç¦À[
+F
+java:S6212·"/Declare this local variable with "var" instead.(˜ë£ª
+E
+java:S6212ş"/Declare this local variable with "var" instead.(Ç¦À[
+F
+java:S6212ÿ"/Declare this local variable with "var" instead.(˜ë£ª
+F
+java:S6212‹"/Declare this local variable with "var" instead.(ô›¡É
+K
+java:S6212Œ"/Declare this local variable with "var" instead.(ƒÒ¯ÿÿÿÿÿ
+L
+java:S1854Í"5Remove this useless assignment to local variable "y".(âŒÊ™
+n
+java:S3776¹"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(€â’áıÿÿÿÿ
+F
+java:S6212º"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212À"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905À"*Remove this unnecessary cast to "Polygon".(èŞÑî
+K
+java:S6212Ç"/Declare this local variable with "var" instead.(¾„ëüÿÿÿÿ
+K
+java:S6212È"/Declare this local variable with "var" instead.(ºš¿»ùÿÿÿÿ
+_
+java:S6208ş"CMerge the previous cases into this one using comma-separated label.(”şëÀÿÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(Ş‰šG
+F
+java:S6212™"/Declare this local variable with "var" instead.(½Áœ¢
+K
+java:S6212š"/Declare this local variable with "var" instead.(âŠÑ«ùÿÿÿÿ
+K
+java:S6212£"/Declare this local variable with "var" instead.(¿Ãª¤ıÿÿÿÿ
+E
+java:S6212¥"/Declare this local variable with "var" instead.(Ç¦À[
+F
+java:S6212¦"/Declare this local variable with "var" instead.(˜ë£ª
+F
+java:S6212À"/Declare this local variable with "var" instead.(½Áœ¢
+K
+java:S6212Á"/Declare this local variable with "var" instead.(âŠÑ«ùÿÿÿÿ
+K
+java:S6212ù"/Declare this local variable with "var" instead.(º¿Óßıÿÿÿÿ
+F
+java:S6212•"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212–"/Declare this local variable with "var" instead.(«à¶ç
+F
+java:S6212—"/Declare this local variable with "var" instead.(Å¨Ê 
+F
+java:S6212™"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905™"*Remove this unnecessary cast to "Polygon".(èŞÑî
+i
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÑâĞ
+F
+java:S6212Ã"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212Ä"/Declare this local variable with "var" instead.(«à¶ç
+F
+java:S6212Å"/Declare this local variable with "var" instead.(Å¨Ê 
+F
+java:S6212Ç"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905Ç"*Remove this unnecessary cast to "Polygon".(èŞÑî
+F
+java:S6212‰"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212Š"/Declare this local variable with "var" instead.(Å¨Ê 
+F
+java:S6212Œ"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905Œ"*Remove this unnecessary cast to "Polygon".(èŞÑî
+i
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¥á¾å
+F
+java:S6212«"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212¬"/Declare this local variable with "var" instead.(«à¶ç
+F
+java:S6212­"/Declare this local variable with "var" instead.(Å¨Ê 
+K
+java:S6212®"/Declare this local variable with "var" instead.(ÓÌ‡øÿÿÿÿ
+F
+java:S6212°"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905°"*Remove this unnecessary cast to "Polygon".(èŞÑî
+F
+java:S6212ñ"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212ò"/Declare this local variable with "var" instead.(«à¶ç
+F
+java:S6212ó"/Declare this local variable with "var" instead.(¹Ù²ú
+K
+java:S6212ô"/Declare this local variable with "var" instead.(ÓÌ‡øÿÿÿÿ
+F
+java:S6212ö"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905ö"*Remove this unnecessary cast to "Polygon".(èŞÑî
+F
+java:S6212•	"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212–	"/Declare this local variable with "var" instead.(«à¶ç
+F
+java:S6212—	"/Declare this local variable with "var" instead.(¹Ù²ú
+F
+java:S6212˜	"/Declare this local variable with "var" instead.(Å¨Ê 
+K
+java:S6212™	"/Declare this local variable with "var" instead.(¿„¡ûÿÿÿÿ
+K
+java:S6212š	"/Declare this local variable with "var" instead.(ÓÌ‡øÿÿÿÿ
+F
+java:S6212œ	"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905œ	"*Remove this unnecessary cast to "Polygon".(èŞÑî
+F
+java:S6212Æ	"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212Ç	"/Declare this local variable with "var" instead.(Å¨Ê 
+F
+java:S6212É	"/Declare this local variable with "var" instead.(èŞÑî
+A
+java:S1905É	"*Remove this unnecessary cast to "Polygon".(èŞÑî

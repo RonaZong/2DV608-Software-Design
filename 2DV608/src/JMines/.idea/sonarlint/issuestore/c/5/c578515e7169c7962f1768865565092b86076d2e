@@ -1,0 +1,258 @@
+
+F
+java:S1066	"/Merge this if statement with the enclosing one.(ƒºÎ
+K
+java:S1066€
+"/Merge this if statement with the enclosing one.(é£Æïşÿÿÿÿ
+F
+java:S1066Ü
+"/Merge this if statement with the enclosing one.(ƒºÎ
+F
+java:S1066â
+"/Merge this if statement with the enclosing one.(ËáÕî
+F
+java:S1066¾"/Merge this if statement with the enclosing one.(ƒºÎ
+F
+java:S1066ø"/Merge this if statement with the enclosing one.(ËáÕî
+F
+java:S1066¨"/Merge this if statement with the enclosing one.(ƒºÎ
+F
+java:S1066Ô"/Merge this if statement with the enclosing one.(ƒºÎ
+F
+java:S1066“"/Merge this if statement with the enclosing one.(ËáÕî
+\
+java:S2184‰"@Cast one of the operands of this integer division to a "double".(•…Ù»ıÿÿÿÿ
+\
+java:S2184—"@Cast one of the operands of this integer division to a "double".(•…Ù»ıÿÿÿÿ
+^
+java:S2184"BCast one of the operands of this division operation to a "double".(½–İıÿÿÿÿ
+^
+java:S2184Ÿ"BCast one of the operands of this division operation to a "double".(·ÔÏ²øÿÿÿÿ
+^
+java:S2184­"BCast one of the operands of this division operation to a "double".(Ğ¶ÿüşÿÿÿÿ
+Y
+java:S2184®"BCast one of the operands of this division operation to a "double".(¸Òñ¸
+^
+java:S2184¼"BCast one of the operands of this division operation to a "double".(½–İıÿÿÿÿ
+Y
+java:S2184½"BCast one of the operands of this division operation to a "double".(¼·ï
+^
+java:S2184Ë"BCast one of the operands of this division operation to a "double".(Ğ¶ÿüşÿÿÿÿ
+Y
+java:S2184Ì"BCast one of the operands of this division operation to a "double".(ñÄ»æ
+^
+java:S2184Ú"BCast one of the operands of this division operation to a "double".(£ç†İøÿÿÿÿ
+^
+java:S2184Û"BCast one of the operands of this division operation to a "double".(ë¥Ñûÿÿÿÿ
+^
+java:S2184é"BCast one of the operands of this division operation to a "double".(î÷­˜ûÿÿÿÿ
+Y
+java:S2184ê"BCast one of the operands of this division operation to a "double".(«Åß¶
+^
+java:S2184ø"BCast one of the operands of this division operation to a "double".(îŞµáøÿÿÿÿ
+^
+java:S2184ù"BCast one of the operands of this division operation to a "double".(ë¥Ñûÿÿÿÿ
+Y
+java:S2184‡"BCast one of the operands of this division operation to a "double".(œÌ¡¨
+Y
+java:S2184ˆ"BCast one of the operands of this division operation to a "double".(«Åß¶
+W
+java:S2184¬"@Cast one of the operands of this integer division to a "double".(¹¡èõ
+\
+java:S2184­"@Cast one of the operands of this integer division to a "double".(åöìøÿÿÿÿ
+F
+java:S2386U"+Make member "SUPPORTED_SHAPES" "protected".(ú–÷’ûÿÿÿÿ
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú–÷’ûÿÿÿÿ
+o
+java:S2293^"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¾…
+p
+java:S2293ƒ"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏ×º
+F
+java:S6212€"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212"/Declare this local variable with "var" instead.(«à¶ç
+E
+java:S6212†"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212‡"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+n
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÌˆŞ¦ÿÿÿÿÿ
+F
+java:S6212´"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212µ"/Declare this local variable with "var" instead.(«à¶ç
+E
+java:S6212¸"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212¹"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+F
+java:S6212ö"/Declare this local variable with "var" instead.(«à¶ç
+E
+java:S6212ù"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212ú"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(É¶×‰şÿÿÿÿ
+F
+java:S6212"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212"/Declare this local variable with "var" instead.(¹Ù²ú
+K
+java:S6212"/Declare this local variable with "var" instead.(ÓÌ‡øÿÿÿÿ
+F
+java:S6212•"/Declare this local variable with "var" instead.(²Û 
+E
+java:S6212™"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212š"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+B
+java:S2185"&Remove this silly call to "Math.floor"(½–İıÿÿÿÿ
+B
+java:S2185Ÿ"&Remove this silly call to "Math.floor"(·ÔÏ²øÿÿÿÿ
+B
+java:S2185­"&Remove this silly call to "Math.floor"(Ğ¶ÿüşÿÿÿÿ
+=
+java:S2185®"&Remove this silly call to "Math.floor"(¸Òñ¸
+B
+java:S2185¼"&Remove this silly call to "Math.floor"(½–İıÿÿÿÿ
+=
+java:S2185½"&Remove this silly call to "Math.floor"(¼·ï
+B
+java:S2185Ë"&Remove this silly call to "Math.floor"(Ğ¶ÿüşÿÿÿÿ
+=
+java:S2185Ì"&Remove this silly call to "Math.floor"(ñÄ»æ
+B
+java:S2185Ú"&Remove this silly call to "Math.floor"(£ç†İøÿÿÿÿ
+B
+java:S2185Û"&Remove this silly call to "Math.floor"(ë¥Ñûÿÿÿÿ
+B
+java:S2185é"&Remove this silly call to "Math.floor"(î÷­˜ûÿÿÿÿ
+=
+java:S2185ê"&Remove this silly call to "Math.floor"(«Åß¶
+B
+java:S2185ø"&Remove this silly call to "Math.floor"(îŞµáøÿÿÿÿ
+B
+java:S2185ù"&Remove this silly call to "Math.floor"(ë¥Ñûÿÿÿÿ
+=
+java:S2185‡"&Remove this silly call to "Math.floor"(œÌ¡¨
+=
+java:S2185ˆ"&Remove this silly call to "Math.floor"(«Åß¶
+F
+java:S6212§"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212¨"/Declare this local variable with "var" instead.(«à¶ç
+F
+java:S6212©"/Declare this local variable with "var" instead.(Å¨Ê 
+E
+java:S6212®"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212¯"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+F
+java:S6212Ï"/Declare this local variable with "var" instead.(«à¶ç
+K
+java:S6212Ğ"/Declare this local variable with "var" instead.(ÓÌ‡øÿÿÿÿ
+E
+java:S6212×"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212Ø"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+h
+java:S3776ó"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ùªŒ3
+F
+java:S6212ô"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212õ"/Declare this local variable with "var" instead.(«à¶ç
+E
+java:S6212ş"/Declare this local variable with "var" instead.(¹À—@
+K
+java:S6212ÿ"/Declare this local variable with "var" instead.(¸„ªøùÿÿÿÿ
+F
+java:S6212Í"/Declare this local variable with "var" instead.(·Ê®
+F
+java:S6212Ù"/Declare this local variable with "var" instead.(Š»ñ¤
+F
+java:S6212å"/Declare this local variable with "var" instead.(Š»ñ¤
+n
+java:S3776î"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(é²Áåÿÿÿÿÿ
+F
+java:S6212ï"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212ó"/Declare this local variable with "var" instead.(ÀÁ Ã
+;
+java:S1659ô"Declare "c" on a separate line.(£—°ıÿÿÿÿ
+E
+java:S2140ö")Use "java.util.Random.nextInt()" instead.(×°¼üÿÿÿÿ
+@
+java:S2140÷")Use "java.util.Random.nextInt()" instead.(Ûõàç
+F
+java:S6212ÿ"/Declare this local variable with "var" instead.(…îÜÁ
+F
+java:S6212€"/Declare this local variable with "var" instead.(¢Ÿú°
+F
+java:S6212¯"/Declare this local variable with "var" instead.(…îÜÁ
+F
+java:S6212°"/Declare this local variable with "var" instead.(¢Ÿú°
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(êÑ‚ñşÿÿÿÿ
+F
+java:S6212È"/Declare this local variable with "var" instead.(…îÜÁ
+F
+java:S6212É"/Declare this local variable with "var" instead.(¢Ÿú°
+B
+java:S1168Ğ"+Return an empty collection instead of null.(¥¹ï
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(»—î¤úÿÿÿÿ
+p
+java:S2293ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+j
+java:S3776¹"SRefactor this method to reduce its Cognitive Complexity from 332 to the 15 allowed.(îˆ…
+F
+java:S6212º"/Declare this local variable with "var" instead.(óŞ±‰
+p
+java:S2293¼"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+o
+java:S3776ö"SRefactor this method to reduce its Cognitive Complexity from 160 to the 15 allowed.(£ öûÿÿÿÿ
+p
+java:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+F
+java:S6212ø"/Declare this local variable with "var" instead.(óŞ±‰
+n
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‚ò„€şÿÿÿÿ
+p
+java:S2293Ô"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+n
+java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(øò‹ñùÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+j
+java:S3776¸"SRefactor this method to reduce its Cognitive Complexity from 160 to the 15 allowed.(´úìÜ
+p
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠèùÙ
+F
+java:S6212º"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212£"/Declare this local variable with "var" instead.(…îÜÁ
+F
+java:S6212¤"/Declare this local variable with "var" instead.(¢Ÿú°
+K
+java:S6212»"/Declare this local variable with "var" instead.(©ŒºÉûÿÿÿÿ
+;
+java:S1659‰"Declare "c" on a separate line.(£—°ıÿÿÿÿ
+E
+java:S2140‹")Use "java.util.Random.nextInt()" instead.(×°¼üÿÿÿÿ
+@
+java:S2140Œ")Use "java.util.Random.nextInt()" instead.(Ûõàç
+n
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(É¨°ßûÿÿÿÿ
+F
+java:S6212¤"/Declare this local variable with "var" instead.(¬õøâ
+F
+java:S6212¥"/Declare this local variable with "var" instead.(…îÜÁ
+F
+java:S6212¦"/Declare this local variable with "var" instead.(¢Ÿú°
+F
+java:S6212­"/Declare this local variable with "var" instead.(…îÜÁ
+F
+java:S6212®"/Declare this local variable with "var" instead.(¢Ÿú°

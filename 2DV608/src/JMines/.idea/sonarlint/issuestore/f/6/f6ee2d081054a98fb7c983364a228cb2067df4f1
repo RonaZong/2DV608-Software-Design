@@ -1,0 +1,104 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ë•øÿÿÿÿ8†îÙ™/
+R
+java:S6212’"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8ÊåÕ™/
+R
+java:S6212±"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8÷åÕ™/
+K
+java:S6212´"/Declare this local variable with "var" instead.(«ËÁÈùÿÿÿÿ
+K
+java:S6212¼"/Declare this local variable with "var" instead.(Î—Ğüÿÿÿÿ
+F
+java:S6212½"/Declare this local variable with "var" instead.(ßƒëµ
+K
+java:S6212Æ"/Declare this local variable with "var" instead.(ˆìäıÿÿÿÿ
+R
+java:S6212ò"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8 çÕ™/
+K
+java:S6212ƒ"/Declare this local variable with "var" instead.(ñÁĞ‘üÿÿÿÿ
+R
+java:S6212¬"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8ßçÕ™/
+R
+java:S6212Í"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8ıçÕ™/
+K
+java:S6212Ğ"/Declare this local variable with "var" instead.(Ääğİüÿÿÿÿ
+i
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(îë’’
+F
+java:S6212æ"/Declare this local variable with "var" instead.(»Òåï
+K
+java:S6212û"/Declare this local variable with "var" instead.(„Æ‘Ğÿÿÿÿÿ
+H
+java:S1874û",Remove this use of "Byte"; it is deprecated.(„Æ‘Ğÿÿÿÿÿ
+K
+java:S6212›"/Declare this local variable with "var" instead.(Ú¤§Ûşÿÿÿÿ
+K
+java:S6212¤"/Declare this local variable with "var" instead.(—€ ûûÿÿÿÿ
+E
+java:S1940¸")Use the opposite operator ("!=") instead.(§‡Ù±ıÿÿÿÿ
+n
+java:S3776Ö"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÛŸªøÿÿÿÿ
+F
+java:S6212×"/Declare this local variable with "var" instead.(»Òåï
+K
+java:S6212ì"/Declare this local variable with "var" instead.(Ú­øûúÿÿÿÿ
+H
+java:S1874ì",Remove this use of "Byte"; it is deprecated.(Ú­øûúÿÿÿÿ
+K
+java:S6212Œ"/Declare this local variable with "var" instead.(¿´’ıÿÿÿÿ
+K
+java:S6212•"/Declare this local variable with "var" instead.(‹•ËÇüÿÿÿÿ
+E
+java:S1940©")Use the opposite operator ("!=") instead.(×êœ¶øÿÿÿÿ
+n
+java:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Í‰ñıûÿÿÿÿ
+F
+java:S6212È"/Declare this local variable with "var" instead.(»Òåï
+F
+java:S6212İ"/Declare this local variable with "var" instead.(¯Ôé”
+C
+java:S1874İ",Remove this use of "Byte"; it is deprecated.(¯Ôé”
+K
+java:S6212ı"/Declare this local variable with "var" instead.(¢×ü—ùÿÿÿÿ
+K
+java:S6212†"/Declare this local variable with "var" instead.(™î­óÿÿÿÿÿ
+@
+java:S1940š")Use the opposite operator ("!=") instead.(Á»àš
+R
+java:S6212¹"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ8ƒëÕ™/
+F
+java:S6212»"/Declare this local variable with "var" instead.(ÇåÈÎ
+y
+java:S2159¿"VRemove this call to "equals"; comparisons between unrelated types always return false.(æ±ïªıÿÿÿÿ8‹ëÕ™/
+K
+java:S6212İ"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ
+K
+java:S6212à"/Declare this local variable with "var" instead.( Ë«Éøÿÿÿÿ
+K
+java:S6212á"/Declare this local variable with "var" instead.(ÿŞà«øÿÿÿÿ
+K
+java:S6212â"/Declare this local variable with "var" instead.(»ê™“øÿÿÿÿ
+K
+java:S6212å"/Declare this local variable with "var" instead.(‹»øÀúÿÿÿÿ
+K
+java:S6212ø"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ
+K
+java:S6212û"/Declare this local variable with "var" instead.(ì¯ìıÿÿÿÿÿ
+K
+java:S6212ÿ"/Declare this local variable with "var" instead.(ª¨‹Ñıÿÿÿÿ
+E
+java:S6212€"/Declare this local variable with "var" instead.(ÆÙ|
+K
+java:S6212›"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(™Ì‡?
+K
+java:S6212Ÿ"/Declare this local variable with "var" instead.(÷ü‚Ûşÿÿÿÿ
+n
+java:S3776«"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Áçü“ÿÿÿÿÿ
+K
+java:S6212º"/Declare this local variable with "var" instead.(—©óÃøÿÿÿÿ
+K
+java:S6212¾"/Declare this local variable with "var" instead.(Ã‘úùÿÿÿÿ
+F
+java:S6212Ã"/Declare this local variable with "var" instead.(“ğúË

@@ -1,0 +1,15 @@
+
+€
+java:S4165­"iRemove this useless assignment; "audioStream" already holds the assigned value along all execution paths.(Óðƒô
+y
+java:S4165É"bRemove this useless assignment; "clip" already holds the assigned value along all execution paths.(ºòÞÂ
+`
+java:S2259¼"IA "NullPointerException" could be thrown; "audioFormat" is nullable here.(ØÎí¶
+`
+java:S2259³"IA "NullPointerException" could be thrown; "audioStream" is nullable here.(ùÁ× 
+J
+java:S6212d"/Declare this local variable with "var" instead.(›Æõ•ÿÿÿÿÿ
+\
+java:S2147ª"ECombine this catch with the one at line 168, which has the same body.(ï­£Ä
+\
+java:S2147á"ECombine this catch with the one at line 222, which has the same body.(ï­£Ä

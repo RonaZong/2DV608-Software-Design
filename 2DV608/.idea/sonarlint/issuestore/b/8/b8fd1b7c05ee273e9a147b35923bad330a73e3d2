@@ -1,0 +1,14 @@
+
+h
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ñáß
+\	java:S899e"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+F
+java:S6212"/Declare this local variable with "var" instead.(‡ûÌ˜
+F
+java:S6212"/Declare this local variable with "var" instead.(º÷¬€
+K
+java:S6212Ï"/Declare this local variable with "var" instead.(şêÂæûÿÿÿÿ
+K
+java:S6212Ø"/Declare this local variable with "var" instead.(´†àŞüÿÿÿÿ
+F
+java:S6212Ù"/Declare this local variable with "var" instead.(¨ú»£

@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ë•øÿÿÿÿ
+D
+java:S6212H"/Declare this local variable with "var" instead.(º×¯
+J
+java:S6212I"/Declare this local variable with "var" instead.(²Œäøÿÿÿÿ
+o
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥¢¹
+E
+java:S6212P"/Declare this local variable with "var" instead.(±ñè·
+E
+java:S6212S"/Declare this local variable with "var" instead.(÷“èù
+J
+java:S6212^"/Declare this local variable with "var" instead.(‰½ê¦ûÿÿÿÿ

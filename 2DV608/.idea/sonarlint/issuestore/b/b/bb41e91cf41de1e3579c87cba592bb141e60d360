@@ -1,0 +1,27 @@
+
+e
+java:S2095Ò"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(Ÿ™˜À
+a
+java:S2095‰"EUse try-with-resources or close this "JarFile" in a "finally" clause.(í›©½øÿÿÿÿ
+`
+java:S2095c"EUse try-with-resources or close this "JarFile" in a "finally" clause.(í›©½øÿÿÿÿ
+e
+java:S2095Ñ"IUse try-with-resources or close this "InputStream" in a "finally" clause.(¿â›Ëüÿÿÿÿ
+t
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(­‹Ç–ıÿÿÿÿ
+t
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾¢¡ıÿÿÿÿ
+J
+java:S6212c"/Declare this local variable with "var" instead.(í›©½øÿÿÿÿ
+J
+java:S6212h"/Declare this local variable with "var" instead.(¤óêæùÿÿÿÿ
+E
+java:S6212i"/Declare this local variable with "var" instead.(ãæØ›
+e
+java:S2674j"JCheck the return value of the "read" call to see how many bytes were read.(¢ñÀ’ûÿÿÿÿ
+K
+java:S6212‰"/Declare this local variable with "var" instead.(í›©½øÿÿÿÿ
+K
+java:S6212É"/Declare this local variable with "var" instead.(¦”³§üÿÿÿÿ
+K
+java:S6212Î"/Declare this local variable with "var" instead.(ØÙ£ğıÿÿÿÿ

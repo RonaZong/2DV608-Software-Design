@@ -1,0 +1,26 @@
+
+m
+java:S3776Q"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Š³®”ùÿÿÿÿ
+\	java:S899V"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+E
+java:S6212p"/Declare this local variable with "var" instead.(Ôù…ª
+F
+java:S6212†"/Declare this local variable with "var" instead.(‡ûÌ˜
+F
+java:S6212‡"/Declare this local variable with "var" instead.(º÷¬€
+K
+java:S6212"/Declare this local variable with "var" instead.(Ô¦Šüÿÿÿÿ
+K
+java:S6212¶"/Declare this local variable with "var" instead.(şêÂæûÿÿÿÿ
+K
+java:S6212À"/Declare this local variable with "var" instead.(´†àŞüÿÿÿÿ
+F
+java:S6212Á"/Declare this local variable with "var" instead.(¨ú»£
+F
+java:S6212Ê"/Declare this local variable with "var" instead.(šèı²
+a
+java:S2674Ë"JCheck the return value of the "read" call to see how many bytes were read.(öŸÕù
+p
+java:S2293Ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÅ´§
+F
+java:S6212Õ"/Declare this local variable with "var" instead.(Ä«

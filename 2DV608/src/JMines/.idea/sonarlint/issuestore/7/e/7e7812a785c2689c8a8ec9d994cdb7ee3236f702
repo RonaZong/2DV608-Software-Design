@@ -1,0 +1,34 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ë•øÿÿÿÿ
+N
+java:S2387}"3"background" is the name of a field in "Component".(‹Ê‘²ÿÿÿÿÿ
+K
+java:S6212Ÿ"/Declare this local variable with "var" instead.(¨Ê‰şÿÿÿÿ
+M
+java:S2696ê"6Make the enclosing method "static" or remove this set.(Úğİû
+K
+java:S6212ë"/Declare this local variable with "var" instead.(á“Õ”øÿÿÿÿ
+R
+java:S2696ì"6Make the enclosing method "static" or remove this set.(±Íıôÿÿÿÿÿ
+F
+java:S6212í"/Declare this local variable with "var" instead.(Í÷ÏŞ
+M
+java:S2696ô"6Make the enclosing method "static" or remove this set.(Úğİû
+K
+java:S6212õ"/Declare this local variable with "var" instead.(á“Õ”øÿÿÿÿ
+M
+java:S2696ö"6Make the enclosing method "static" or remove this set.(÷Ú‘Ø
+F
+java:S6212÷"/Declare this local variable with "var" instead.(Í÷ÏŞ
+K
+java:S6212“"/Declare this local variable with "var" instead.(§‡ÿ“øÿÿÿÿ
+M
+java:S2696š"6Make the enclosing method "static" or remove this set.(Úğİû
+K
+java:S6212›"/Declare this local variable with "var" instead.(á“Õ”øÿÿÿÿ
+M
+java:S2696œ"6Make the enclosing method "static" or remove this set.(÷Ú‘Ø
+F
+java:S6212"/Declare this local variable with "var" instead.(Í÷ÏŞ
+R
+java:S2696¥"6Make the enclosing method "static" or remove this set.(İ‰œ™ÿÿÿÿÿ

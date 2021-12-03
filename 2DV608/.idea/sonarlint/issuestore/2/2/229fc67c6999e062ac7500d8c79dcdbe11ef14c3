@@ -1,0 +1,161 @@
+
+u
+java:S1192€"^Use already-defined constant 'LANGUAGE_FILENAME_SUFFIX' instead of duplicating its value here.(ıä
+u
+java:S1192€"^Use already-defined constant 'LANGUAGE_FILENAME_PREFIX' instead of duplicating its value here.(ıä
+]
+java:S1192Á"GDefine a constant instead of duplicating this literal "Error" 16 times.(¡ã!
+\
+java:S1192¦"FDefine a constant instead of duplicating this literal "/lng/" 4 times.(‰ëˆ
+s
+java:S1192¦"]Use already-defined constant 'LANGUAGE_DEFAULT_LOCALE' instead of duplicating its value here.(‰ëˆ
+n
+java:S1192×"RUse already-defined constant 'SUFFIX_WIDTH' instead of duplicating its value here.(ÒÈ€üÿÿÿÿ
+j
+java:S1192Ø"SUse already-defined constant 'SUFFIX_HEIGHT' instead of duplicating its value here.(á«êş
+3
+java:S1643Å"Use a StringBuilder instead.(•çµö
+8
+java:S1643Î"Use a StringBuilder instead.(¦ê‘ˆüÿÿÿÿ
+8
+java:S1643Ğ"Use a StringBuilder instead.(¯Ë‡õÿÿÿÿÿ
+c
+java:S2259¢"L"NullPointerException" will be thrown when invoking method "loadLanguage()".(­ª‹İ
+p
+java:S2293¥"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨Ÿ‚
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(„ş­ò
+p
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ææ…ª
+F
+java:S6212"/Declare this local variable with "var" instead.(²œŒı
+K
+java:S6212¯"/Declare this local variable with "var" instead.(ªİó¢ûÿÿÿÿ
+K
+java:S6212Ñ"/Declare this local variable with "var" instead.(ØØÇƒøÿÿÿÿ
+`
+java:S1854€"DRemove this useless assignment to local variable "rootDirectoryURL".(ï¢Éãüÿÿÿÿ
+F
+java:S6212ô"/Declare this local variable with "var" instead.(Úæñ”
+E
+java:S6212ø"/Declare this local variable with "var" instead.(Ç«ö
+K
+java:S6212ù"/Declare this local variable with "var" instead.(©«•Åıÿÿÿÿ
+F
+java:S6212ú"/Declare this local variable with "var" instead.(€™à¤
+F
+java:S6212û"/Declare this local variable with "var" instead.(¯àø¿
+K
+java:S6212ÿ"/Declare this local variable with "var" instead.(ìÑœùÿÿÿÿ
+K
+java:S6212€"/Declare this local variable with "var" instead.(ï¢Éãüÿÿÿÿ
+K
+java:S6212ƒ"/Declare this local variable with "var" instead.(¼Á½ùÿÿÿÿ
+]
+java:S2147š"FCombine this catch with the one at line 1815, which has the same body.(ï­£Ä
+F
+java:S6212•"/Declare this local variable with "var" instead.(âïã
+]
+java:S2147ª"FCombine this catch with the one at line 1832, which has the same body.(ï­£Ä
+E
+java:S6212¦"/Declare this local variable with "var" instead.(‰ëˆ
+n
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(Ü ¹Ôüÿÿÿÿ
+F
+java:S6212Ê"/Declare this local variable with "var" instead.(óŞ±‰
+]
+java:S2147Š"FCombine this catch with the one at line 1928, which has the same body.(óûìœ
+]
+java:S2147Œ"FCombine this catch with the one at line 1928, which has the same body.(ï­£Ä
+K
+java:S6212Í"/Declare this local variable with "var" instead.(Òß­¨ıÿÿÿÿ
+R	java:S125–"<This block of commented-out lines of code should be removed.(Í£»â
+R	java:S125¡"<This block of commented-out lines of code should be removed.(Æ¢‰ï
+]
+java:S2147¿"FCombine this catch with the one at line 1980, which has the same body.(Å¡ß
+]
+java:S2147Â"FCombine this catch with the one at line 1980, which has the same body.(ıàÑÎ
+n
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(úÁ»Òøÿÿÿÿ
+F
+java:S6212Í"/Declare this local variable with "var" instead.(ÅÿÄ«
+b
+java:S2147Ö"FCombine this catch with the one at line 2003, which has the same body.(¼¯•¶ùÿÿÿÿ
+b
+java:S2147Ù"FCombine this catch with the one at line 2003, which has the same body.(¥¨›ıÿÿÿÿ
+]
+java:S2147Ü"FCombine this catch with the one at line 2003, which has the same body.(¯áè
+]
+java:S2147ß"FCombine this catch with the one at line 2003, which has the same body.(Å¡ß
+]
+java:S2147í"FCombine this catch with the one at line 2026, which has the same body.(ŸäÁ‚
+F
+java:S6212"/Declare this local variable with "var" instead.(óŞ±‰
+F
+java:S6212”"/Declare this local variable with "var" instead.(«ÑÜª
+Q
+java:S1854Ê":Remove this useless assignment to local variable "nbFNFE".(Ù¤ÄÈ
+F
+java:S6212À"/Declare this local variable with "var" instead.(üóöŒ
+F
+java:S6212Ä"/Declare this local variable with "var" instead.(ÒÛë¦
+K
+java:S6212Æ"/Declare this local variable with "var" instead.(İì¦€şÿÿÿÿ
+i
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(æ™âÒ
+F
+java:S6212Ø"/Declare this local variable with "var" instead.(ÅÿÄ«
+d
+java:S4042Ü"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(œ¤¶$
+P	java:S899Ü";Do something with the "boolean" value returned by "delete".(œ¤¶$
+X	java:S899á"BDo something with the "boolean" value returned by "createNewFile".(«Î§ü
+b
+java:S2147í"FCombine this catch with the one at line 2154, which has the same body.(¼¯•¶ùÿÿÿÿ
+b
+java:S2147ğ"FCombine this catch with the one at line 2154, which has the same body.(¥¨›ıÿÿÿÿ
+]
+java:S2147ó"FCombine this catch with the one at line 2154, which has the same body.(¯áè
+]
+java:S2147ö"FCombine this catch with the one at line 2154, which has the same body.(Å¡ß
+]
+java:S2147ù"FCombine this catch with the one at line 2154, which has the same body.(åşáÿ
+K
+java:S6212ˆ"/Declare this local variable with "var" instead.(îÓúÁıÿÿÿÿ
+]
+java:S2147¥"FCombine this catch with the one at line 2211, which has the same body.(ßÈ´
+K
+java:S6212Ã"/Declare this local variable with "var" instead.(¦Óµ²üÿÿÿÿ
+F
+java:S6212É"/Declare this local variable with "var" instead.(™äÁ´
+E
+java:S6212Ì"/Declare this local variable with "var" instead.(¶„}
+]
+java:S2147˜"FCombine this catch with the one at line 2326, which has the same body.(ßÈ´
+]
+java:S2147ª"FCombine this catch with the one at line 2344, which has the same body.(ßÈ´
+]
+java:S2147Â"FCombine this catch with the one at line 2368, which has the same body.(ï­£Ä
+b
+java:S2147â"FCombine this catch with the one at line 2399, which has the same body.(é–³öûÿÿÿÿ
+]
+java:S2147å"FCombine this catch with the one at line 2399, which has the same body.(à®¿­
+]
+java:S2147è"FCombine this catch with the one at line 2399, which has the same body.(ï­£Ä
+F
+java:S6212Ö"/Declare this local variable with "var" instead.(ç— Ó
+K
+java:S6212×"/Declare this local variable with "var" instead.(ÒÈ€üÿÿÿÿ
+F
+java:S6212Ø"/Declare this local variable with "var" instead.(á«êş
+K
+java:S6212Ù"/Declare this local variable with "var" instead.(¼èÓÈÿÿÿÿÿ
+K
+java:S6212õ"/Declare this local variable with "var" instead.(›ò¯øÿÿÿÿ
+K
+java:S6212”"/Declare this local variable with "var" instead.(£×ùßúÿÿÿÿ
+K
+java:S6212•"/Declare this local variable with "var" instead.(‘¸–óÿÿÿÿÿ
+Q
+java:S1481€"5Remove this unused "rootDirectoryURL" local variable.(ï¢Éãüÿÿÿÿ
+B
+java:S1481Ä"+Remove this unused "nbFNFE" local variable.(ÒÛë¦
