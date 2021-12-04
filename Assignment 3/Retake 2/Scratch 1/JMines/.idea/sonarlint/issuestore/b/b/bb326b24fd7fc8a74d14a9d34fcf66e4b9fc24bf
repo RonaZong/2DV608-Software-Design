@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª‰Ëéÿÿÿÿÿ
+w	java:S116"[Rename this field "SUPPORTED_SHAPES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÍç—8¾Ú…ñ/
+y	java:S116"XRename this field "FILLING_RATIO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êë¬Ÿûÿÿÿÿ8¾Ú…ñ/
+L
+java:S1068"1Remove this unused "FILLING_RATIO" private field.(êë¬Ÿûÿÿÿÿ
+M
+java:S1068"2Remove this unused "gameBoardShape" private field.(‡úïüûÿÿÿÿ

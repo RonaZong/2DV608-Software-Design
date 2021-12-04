@@ -1,0 +1,265 @@
+
+c
+java:S1192ì"GDefine a constant instead of duplicating this literal "[,]{1}" 5 times.(Å¼©úÿÿÿÿ
+K
+java:S1066‚"/Merge this if statement with the enclosing one.(’§Éãşÿÿÿÿ
+K
+java:S1066‰"/Merge this if statement with the enclosing one.(œÍ ïøÿÿÿÿ
+K
+java:S1066¬"/Merge this if statement with the enclosing one.(’§Éãşÿÿÿÿ
+K
+java:S1066³"/Merge this if statement with the enclosing one.(œÍ ïøÿÿÿÿ
+3
+java:S1643Š"Use a StringBuilder instead.(€É»¬
+8
+java:S1643Œ"Use a StringBuilder instead.(§”öÎøÿÿÿÿ
+3
+java:S1643«"Use a StringBuilder instead.(€É»¬
+8
+java:S1643­"Use a StringBuilder instead.(§”öÎøÿÿÿÿ
+U
+java:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(Ó»à¾
+Z
+java:S1155Î">Use isEmpty() to check whether the collection is empty or not.(»ˆ‚şÿÿÿÿ
+U
+java:S1155ù">Use isEmpty() to check whether the collection is empty or not.(Ó»à¾
+Q
+java:S1141Ş"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Q
+java:S1141ˆ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÓŸÆıÿÿÿÿ
+o
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö¢Å
+n
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìİßj
+o
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÉœ
+t
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡ä ¸ùÿÿÿÿ
+F
+java:S6212Ò"/Declare this local variable with "var" instead.(ºµ”Ä
+F
+java:S6212Õ"/Declare this local variable with "var" instead.(–…ï²
+K
+java:S6212Ö"/Declare this local variable with "var" instead.( Èïúøÿÿÿÿ
+K
+java:S6212Ú"/Declare this local variable with "var" instead.(Ãñœ°ûÿÿÿÿ
+K
+java:S6212ß"/Declare this local variable with "var" instead.(ßşÙãüÿÿÿÿ
+i
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¯»îÁ
+K
+java:S6212ò"/Declare this local variable with "var" instead.(´ñõÿıÿÿÿÿ
+F
+java:S6212ö"/Declare this local variable with "var" instead.(ºµ”Ä
+F
+java:S6212÷"/Declare this local variable with "var" instead.(–…ï²
+K
+java:S6212ø"/Declare this local variable with "var" instead.(ªü„Øùÿÿÿÿ
+b
+java:S3252‹"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(×¬íâÿÿÿÿÿ
+P
+java:S1874‹"4Remove this use of "BUTTON3_MASK"; it is deprecated.(×¬íâÿÿÿÿÿ
+b
+java:S3252“"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(Ä’Ò—üÿÿÿÿ
+P
+java:S1874“"4Remove this use of "BUTTON1_MASK"; it is deprecated.(Ä’Ò—üÿÿÿÿ
+b
+java:S3252“"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(Ä’Ò—üÿÿÿÿ
+P
+java:S1874“"4Remove this use of "BUTTON3_MASK"; it is deprecated.(Ä’Ò—üÿÿÿÿ
+j
+java:S3776¦"SRefactor this method to reduce its Cognitive Complexity from 163 to the 15 allowed.(ÜœÍ
+K
+java:S6212§"/Declare this local variable with "var" instead.(´ñõÿıÿÿÿÿ
+F
+java:S6212«"/Declare this local variable with "var" instead.(ºµ”Ä
+F
+java:S6212¬"/Declare this local variable with "var" instead.(–…ï²
+K
+java:S6212­"/Declare this local variable with "var" instead.(ªü„Øùÿÿÿÿ
+p
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÿÂ
+F
+java:S6212²"/Declare this local variable with "var" instead.(º•¹÷
+F
+java:S6212´"/Declare this local variable with "var" instead.(¯Äâ
+p
+java:S2293¾"YReplace the type specification in this constructor call with the diamond operator ("<>").(æìÆ
+p
+java:S2293É"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ß”Ğ
+p
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(óĞë©
+K
+java:S6212×"/Declare this local variable with "var" instead.(§õüÿÿÿÿ
+K
+java:S6212Û"/Declare this local variable with "var" instead.(¼Ãéóÿÿÿÿÿ
+K
+java:S6212Ü"/Declare this local variable with "var" instead.(ÁÁ‹µûÿÿÿÿ
+K
+java:S6212İ"/Declare this local variable with "var" instead.(í‚³»üÿÿÿÿ
+K
+java:S6212ô"/Declare this local variable with "var" instead.(ƒ”ĞÈøÿÿÿÿ
+K
+java:S6212˜"/Declare this local variable with "var" instead.(âÛ¬Õıÿÿÿÿ
+b
+java:S3252›"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(“Óîÿÿÿÿÿ
+P
+java:S1874›"4Remove this use of "BUTTON3_MASK"; it is deprecated.(“Óîÿÿÿÿÿ
+F
+java:S6212¡"/Declare this local variable with "var" instead.(½ØçÂ
+b
+java:S3252¤"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(ı—¬àıÿÿÿÿ
+P
+java:S1874¤"4Remove this use of "BUTTON1_MASK"; it is deprecated.(ı—¬àıÿÿÿÿ
+u
+java:S2293Ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ²Ï©üÿÿÿÿ
+F
+java:S6212Å"/Declare this local variable with "var" instead.(ºµ”Ä
+F
+java:S6212Æ"/Declare this local variable with "var" instead.(–…ï²
+K
+java:S6212Ç"/Declare this local variable with "var" instead.(ªü„Øùÿÿÿÿ
+@
+java:S2140Ï")Use "java.util.Random.nextInt()" instead.(°¢
+]
+java:S3252Ğ"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(¨â«¼
+K
+java:S1874Ğ"4Remove this use of "BUTTON1_MASK"; it is deprecated.(¨â«¼
+p
+java:S2293ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(é¥Ìû
+K
+java:S6212†"/Declare this local variable with "var" instead.(¯ëˆ¾ÿÿÿÿÿ
+F
+java:S6212ˆ"/Declare this local variable with "var" instead.(£¥®­
+K
+java:S6212§"/Declare this local variable with "var" instead.(¯ëˆ¾ÿÿÿÿÿ
+F
+java:S6212©"/Declare this local variable with "var" instead.(£¥®­
+d
+java:S1871Ë"MThis branch's code block is the same as the block for the branch on line 712.(¹¥”¼
+b
+java:S3252È"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(¥ˆ¿Œÿÿÿÿÿ
+P
+java:S1874È"4Remove this use of "BUTTON1_MASK"; it is deprecated.(¥ˆ¿Œÿÿÿÿÿ
+]
+java:S3252Ë"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(¹¥”¼
+K
+java:S1874Ë"4Remove this use of "BUTTON3_MASK"; it is deprecated.(¹¥”¼
+]
+java:S3252Î"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(…îÃä
+K
+java:S1874Î"4Remove this use of "BUTTON1_MASK"; it is deprecated.(…îÃä
+]
+java:S3252Î"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(…îÃä
+K
+java:S1874Î"4Remove this use of "BUTTON3_MASK"; it is deprecated.(…îÃä
+]
+java:S3252Ï"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(œ¨»
+K
+java:S1874Ï"4Remove this use of "BUTTON1_MASK"; it is deprecated.(œ¨»
+\
+java:S3252Ğ"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".( ”T
+J
+java:S1874Ğ"4Remove this use of "BUTTON3_MASK"; it is deprecated.( ”T
+b
+java:S3252Ñ"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(ÚëÊˆşÿÿÿÿ
+P
+java:S1874Ñ"4Remove this use of "BUTTON1_MASK"; it is deprecated.(ÚëÊˆşÿÿÿÿ
+]
+java:S3252Ò"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(Ó†Ë½
+K
+java:S1874Ò"4Remove this use of "BUTTON3_MASK"; it is deprecated.(Ó†Ë½
+F
+java:S6212å"/Declare this local variable with "var" instead.(Íñßî
+F
+java:S6212æ"/Declare this local variable with "var" instead.(ÜŸÒ
+K
+java:S6212ç"/Declare this local variable with "var" instead.(³ãûıÿÿÿÿ
+F
+java:S6212è"/Declare this local variable with "var" instead.(ƒÁ
+K
+java:S6212é"/Declare this local variable with "var" instead.(§²Æäûÿÿÿÿ
+i
+java:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(éÈ«Œ
+K
+java:S6212¥"/Declare this local variable with "var" instead.(ß„öñıÿÿÿÿ
+K
+java:S6212©"/Declare this local variable with "var" instead.(®üÖ–şÿÿÿÿ
+F
+java:S6212ª"/Declare this local variable with "var" instead.(ÆÚ­
+K
+java:S6212«"/Declare this local variable with "var" instead.(ªü„Øùÿÿÿÿ
+i
+java:S1871¼"MThis branch's code block is the same as the block for the branch on line 825.(ã—‹ğıÿÿÿÿ
+i
+java:S3776Ğ"SRefactor this method to reduce its Cognitive Complexity from 165 to the 15 allowed.(Ìü°
+K
+java:S6212Ñ"/Declare this local variable with "var" instead.(ß„öñıÿÿÿÿ
+K
+java:S6212Õ"/Declare this local variable with "var" instead.(®üÖ–şÿÿÿÿ
+F
+java:S6212Ö"/Declare this local variable with "var" instead.(Ğ¾€Á
+K
+java:S6212×"/Declare this local variable with "var" instead.(ªü„Øùÿÿÿÿ
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÿÂ
+F
+java:S6212Ü"/Declare this local variable with "var" instead.(º•¹÷
+F
+java:S6212Ş"/Declare this local variable with "var" instead.(¯Äâ
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(æìÆ
+p
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ß”Ğ
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(óĞë©
+K
+java:S6212"/Declare this local variable with "var" instead.(§õüÿÿÿÿ
+K
+java:S6212…"/Declare this local variable with "var" instead.(¼Ãéóÿÿÿÿÿ
+K
+java:S6212†"/Declare this local variable with "var" instead.(ÁÁ‹µûÿÿÿÿ
+K
+java:S6212‡"/Declare this local variable with "var" instead.(í‚³»üÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(ƒ”ĞÈøÿÿÿÿ
+F
+java:S6212Â"/Declare this local variable with "var" instead.(×“º«
+K
+java:S6212È"/Declare this local variable with "var" instead.(ı›åÉúÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ŞÌ‡ÿÿÿÿÿ
+K
+java:S6212ğ"/Declare this local variable with "var" instead.(´ñõÿıÿÿÿÿ
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 42 to the 15 allowed.(Û ÀÚÿÿÿÿÿ
+E
+java:S6212²"/Declare this local variable with "var" instead.(—ğJ
+u
+java:S2142¾"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+K
+java:S6212Ç"/Declare this local variable with "var" instead.(ú¯–µøÿÿÿÿ
+K
+java:S6212È"/Declare this local variable with "var" instead.(»Ó´»øÿÿÿÿ
+u
+java:S2142Ñ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+]
+java:S3252×"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(Ì™­É
+K
+java:S1874×"4Remove this use of "BUTTON3_MASK"; it is deprecated.(Ì™­É
+b
+java:S3252Ù"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(äÜÚúÿÿÿÿ
+P
+java:S1874Ù"4Remove this use of "BUTTON1_MASK"; it is deprecated.(äÜÚúÿÿÿÿ
+]
+java:S3252İ"FUse static access with "java.awt.event.InputEvent" for "BUTTON3_MASK".(Ì™­É
+K
+java:S1874İ"4Remove this use of "BUTTON3_MASK"; it is deprecated.(Ì™­É
+b
+java:S3252ß"FUse static access with "java.awt.event.InputEvent" for "BUTTON1_MASK".(äÜÚúÿÿÿÿ
+P
+java:S1874ß"4Remove this use of "BUTTON1_MASK"; it is deprecated.(äÜÚúÿÿÿÿ
+u
+java:S2142í"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
